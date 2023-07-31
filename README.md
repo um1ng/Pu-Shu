@@ -1,6 +1,11 @@
-##### 我曾經跨過山和大海 也穿過人山人海
-##### 我曾經擁有著的一切 轉眼都飄散如煙
-##### 我曾經失落失望 失掉所有方向
-##### 直到看見平凡 才是唯一的答案
+<p align="center">
+  <samp>
+    <a href="https://um1ng.top">me</a> .
+    <a href="https://twitter.com/um1ng_x">X</a> .
+    <a href="https://www.instagram.com/um1ng.x">instagram</a>
+  </samp>
+</p>
 
-![](https://streak-stats.demolab.com/?user=um1ng)
+<p align="center">
+  <img src='https://streak-stats.demolab.com/?user=um1ng' />
+</p>
