@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='https://streak-stats.demolab.com/?user=um1ng' />
+  <img src='https://streak-stats.demolab.com?user=um1ng&theme=transparent' />
 </p>
 
 <p align="center">
